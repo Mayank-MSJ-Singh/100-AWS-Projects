@@ -55,7 +55,7 @@ Here's a summary of the AWS services and other technologies used across the proj
 
 ## 🤝 Contributing
 
-Since this is a personal project to track my progress in the #100Days100Projects challenge, I'm not actively seeking contributions. However, if you have suggestions or find any issues, feel free to open an issue.
+Since this is a personal project to track my progress in the #100AWSProjects challenge, I'm not actively seeking contributions. However, if you have suggestions or find any issues, feel free to open an issue.
 
 ## 📄 License
 
