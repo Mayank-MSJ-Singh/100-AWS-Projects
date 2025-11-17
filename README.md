@@ -1,6 +1,6 @@
 # 100 AWS Projects
 
-This repository documents my journey through the #100Days100Projects challenge. Each day, I create a new project, focusing on learning and applying various technologies, especially AWS services.
+This repository documents my journey through the #100AWSProjects challenge. Each day, I create a new project, focusing on learning and applying various technologies, especially AWS services.
 
 ## 🚀 Projects
 
