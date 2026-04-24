@@ -4,6 +4,8 @@
 
 “Catch the Insect” is a browser-based game where players catch insects on the screen. Scores and events are sent to AWS services for storage and analytics. The game uses a serverless architecture with **AWS Lambda, DynamoDB, Kinesis, and S3**.
 
+Link - https://d2mem11htv32jt.cloudfront.net/
+
 ### Architecture Flow
 
 ```
